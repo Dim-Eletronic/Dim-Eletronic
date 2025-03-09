@@ -1,5 +1,7 @@
 ## My name is Dim... Dimas 👋
 ![Alt text](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2567620/extras/GIF_20-08-2023_21-03-57.gif?t=1729089894)
+![Dim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dim-eletronic&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dim-eletronic&show_icons=true&theme=merko&layout=compact)
 <!--<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2567620/extras/GIF_20-08-2023_21-03-57.gif" width="100" height="100" />
 
 **Dim-Eletronic/Dim-Eletronic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
